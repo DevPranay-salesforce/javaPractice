@@ -23,4 +23,4 @@ public class AccountTodayClass {
 		account.deposit(5000);
 		account.deposit(50);
 	}
-}
+} 
